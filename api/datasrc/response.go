@@ -1,4 +1,4 @@
-package api
+package datasrc
 
 import (
 	"encoding/json"

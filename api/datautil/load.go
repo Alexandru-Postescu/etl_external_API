@@ -10,8 +10,7 @@ import (
 
 // Mapping the map to the required output
 func mapOutput(m map[string][]model.Person) []model.Output {
-	// TODO: using make like this, brings no value, instead it creates an extra allocation!!!
-	output := make([]model.Output, 0)
+	var output []model.Output
 	for k, v := range m {
 		o := model.Output{}
 		o.Init(k, v, len(v))
