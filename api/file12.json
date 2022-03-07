@@ -1,0 +1,86 @@
+{
+ "index": "R",
+ "records": [
+  {
+   "first": "Rebeca",
+   "last": "Wilkinson",
+   "email": "Rebeca.Wilkinson@cristina.biz",
+   "address": "4089 Harris Curve",
+   "created": "December 14, 2014",
+   "balance": "$3,814.66"
+  },
+  {
+   "first": "Russel",
+   "last": "Hand",
+   "email": "greenturtle47@gmail.com",
+   "address": "30715 Adelle Crescent",
+   "created": "September 29, 2020",
+   "balance": "$9,037.94"
+  },
+  {
+   "first": "Rubye",
+   "last": "Toy",
+   "email": "greywolf70@gmail.com",
+   "address": "08924 Katelyn Center",
+   "created": "April 26, 2018",
+   "balance": "$51.89"
+  },
+  {
+   "first": "Rhoda",
+   "last": "Beer",
+   "email": "Rhoda.Beer@earnest.net",
+   "address": "7780 Lockman Common",
+   "created": "May 12, 2013",
+   "balance": "$4,609.88"
+  },
+  {
+   "first": "Reggie",
+   "last": "Runolfsson",
+   "email": "Reggie.Runolfsson@stacey.net",
+   "address": "471 Arthur Fields",
+   "created": "October 21, 2019",
+   "balance": "$4,073.08"
+  },
+  {
+   "first": "Ryley",
+   "last": "Ferry",
+   "email": "Ryley.Ferry@nickolas.com",
+   "address": "3020 Kurtis Mountain",
+   "created": "February 18, 2014",
+   "balance": "$980.71"
+  },
+  {
+   "first": "Richard",
+   "last": "Emard",
+   "email": "bluesquirrel77@gmail.com",
+   "address": "73186 Franco Pass",
+   "created": "November 9, 2018",
+   "balance": "$1,985.18"
+  },
+  {
+   "first": "Ronaldo",
+   "last": "Boyle",
+   "email": "Ronaldo.Boyle@leann.net",
+   "address": "3455 Bill Turnpike",
+   "created": "May 18, 2012",
+   "balance": "$3,259.94"
+  },
+  {
+   "first": "Retta",
+   "last": "Welch",
+   "email": "pinkgiraffe24@gmail.com",
+   "address": "808 Lia Ridge",
+   "created": "April 9, 2017",
+   "balance": "$7,887.42"
+  },
+  {
+   "first": "Rosella",
+   "last": "Metz",
+   "email": "Rosella.Metz@itzel.com",
+   "address": "644 Ida Haven",
+   "created": "November 16, 2019",
+   "balance": "$2,061.02"
+  }
+ ],
+ "total_records": 10
+}

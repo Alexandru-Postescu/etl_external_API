@@ -1,0 +1,78 @@
+{
+ "index": "G",
+ "records": [
+  {
+   "first": "Garry",
+   "last": "Smith",
+   "email": "azurefrog68@gmail.com",
+   "address": "141 Bode Village",
+   "created": "May 29, 2018",
+   "balance": "$1,220.98"
+  },
+  {
+   "first": "Gabriella",
+   "last": "Kuvalis",
+   "email": "Gabriella.Kuvalis@griffin.biz",
+   "address": "111 Kirlin Mills",
+   "created": "January 5, 2020",
+   "balance": "$7,668.99"
+  },
+  {
+   "first": "Green",
+   "last": "Hyatt",
+   "email": "Green.Hyatt@alyson.biz",
+   "address": "6203 Alessia Haven",
+   "created": "August 7, 2015",
+   "balance": "$8,407.09"
+  },
+  {
+   "first": "Gayle",
+   "last": "Batz",
+   "email": "Gayle.Batz@trevor.name",
+   "address": "957 Timothy Hills",
+   "created": "June 12, 2015",
+   "balance": "$1,190.75"
+  },
+  {
+   "first": "Gaylord",
+   "last": "Conn",
+   "email": "tealwolf61@gmail.com",
+   "address": "324 Kelvin Divide",
+   "created": "April 7, 2017",
+   "balance": "$9,938.53"
+  },
+  {
+   "first": "Geo",
+   "last": "Gusikowski",
+   "email": "purplefrog84@gmail.com",
+   "address": "6669 Johnson Flats",
+   "created": "September 13, 2013",
+   "balance": "$6,605.38"
+  },
+  {
+   "first": "Graham",
+   "last": "Hoeger",
+   "email": "plumgiraffe29@gmail.com",
+   "address": "5171 Jerry Keys",
+   "created": "August 12, 2012",
+   "balance": "$498.70"
+  },
+  {
+   "first": "Gladyce",
+   "last": "Wiegand",
+   "email": "Gladyce.Wiegand@bertha.net",
+   "address": "3963 Bryce Tunnel",
+   "created": "March 25, 2021",
+   "balance": "$6,051.47"
+  },
+  {
+   "first": "Golda",
+   "last": "Littel",
+   "email": "Golda.Littel@milo.net",
+   "address": "29835 Kiehn Viaduct",
+   "created": "January 15, 2015",
+   "balance": "$6,151.25"
+  }
+ ],
+ "total_records": 9
+}

@@ -1,0 +1,22 @@
+{
+ "index": "V",
+ "records": [
+  {
+   "first": "Vallie",
+   "last": "Schmitt",
+   "email": "indigoturtle35@gmail.com",
+   "address": "9348 Schmeler Island",
+   "created": "August 16, 2018",
+   "balance": "$3,405.41"
+  },
+  {
+   "first": "Violette",
+   "last": "Prohaska",
+   "email": "Violette.Prohaska@beaulah.com",
+   "address": "55491 Brown Camp",
+   "created": "May 20, 2012",
+   "balance": "$4,997.56"
+  }
+ ],
+ "total_records": 2
+}

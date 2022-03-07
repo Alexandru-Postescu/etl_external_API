@@ -1,0 +1,38 @@
+{
+ "index": "I",
+ "records": [
+  {
+   "first": "Irma",
+   "last": "Wisoky",
+   "email": "Irma.Wisoky@kelsie.biz",
+   "address": "14507 Cole Rest",
+   "created": "January 25, 2017",
+   "balance": "$2,338.00"
+  },
+  {
+   "first": "Irwin",
+   "last": "Hills",
+   "email": "Irwin.Hills@dale.biz",
+   "address": "89062 Deven Fords",
+   "created": "March 1, 2019",
+   "balance": "$1,287.10"
+  },
+  {
+   "first": "Immanuel",
+   "last": "Greenfelder",
+   "email": "pinkgiraffe58@gmail.com",
+   "address": "6447 Schmidt Ridge",
+   "created": "November 27, 2013",
+   "balance": "$6,677.10"
+  },
+  {
+   "first": "Isaac",
+   "last": "Mitchell",
+   "email": "azuresquirrel75@gmail.com",
+   "address": "523 Christiansen Wells",
+   "created": "May 2, 2016",
+   "balance": "$5,673.84"
+  }
+ ],
+ "total_records": 4
+}

@@ -1,0 +1,102 @@
+{
+ "index": "M",
+ "records": [
+  {
+   "first": "Myron",
+   "last": "Stanton",
+   "email": "Myron.Stanton@caleigh.name",
+   "address": "28685 Christ Inlet",
+   "created": "May 6, 2017",
+   "balance": "$4,734.14"
+  },
+  {
+   "first": "Michel",
+   "last": "Jast",
+   "email": "limewolf04@gmail.com",
+   "address": "45225 Thiel Wall",
+   "created": "June 29, 2020",
+   "balance": "$5,458.41"
+  },
+  {
+   "first": "Mable",
+   "last": "Greenfelder",
+   "email": "indigorabbit87@gmail.com",
+   "address": "17141 Lelia Mountains",
+   "created": "July 9, 2016",
+   "balance": "$2,126.63"
+  },
+  {
+   "first": "Markus",
+   "last": "Stokes",
+   "email": "plumrabbit48@gmail.com",
+   "address": "17421 Gusikowski Passage",
+   "created": "June 7, 2014",
+   "balance": "$3,349.04"
+  },
+  {
+   "first": "Mckenna",
+   "last": "Reichert",
+   "email": "pinkgiraffe99@gmail.com",
+   "address": "22891 Leannon Islands",
+   "created": "September 30, 2016",
+   "balance": "$6,080.22"
+  },
+  {
+   "first": "Mckayla",
+   "last": "Kutch",
+   "email": "greygiraffe96@gmail.com",
+   "address": "9027 Frida Islands",
+   "created": "August 31, 2020",
+   "balance": "$4,532.22"
+  },
+  {
+   "first": "Maximus",
+   "last": "Schultz",
+   "email": "Maximus.Schultz@xzavier.biz",
+   "address": "96272 Selena Camp",
+   "created": "August 4, 2016",
+   "balance": "$5,198.29"
+  },
+  {
+   "first": "Melvin",
+   "last": "Mosciski",
+   "email": "Melvin.Mosciski@makayla.biz",
+   "address": "6407 Farrell Wall",
+   "created": "October 20, 2020",
+   "balance": "$3,047.30"
+  },
+  {
+   "first": "Monserrat",
+   "last": "Hahn",
+   "email": "plumwolf18@gmail.com",
+   "address": "8214 Elmo Crescent",
+   "created": "January 13, 2017",
+   "balance": "$5,602.58"
+  },
+  {
+   "first": "Margarette",
+   "last": "Kohler",
+   "email": "ivorysquirrel94@gmail.com",
+   "address": "460 Payton Freeway",
+   "created": "December 6, 2012",
+   "balance": "$2,152.44"
+  },
+  {
+   "first": "Maxie",
+   "last": "Armstrong",
+   "email": "plumfrog60@gmail.com",
+   "address": "108 Larkin Route",
+   "created": "November 22, 2021",
+   "balance": "$6,902.76"
+  },
+  {
+   "first": "Molly",
+   "last": "O'Kon",
+   "email": "Molly.O'Kon@blair.net",
+   "address": "986 Mueller Crescent",
+   "created": "July 10, 2012",
+   "balance": "$4,212.87"
+  }
+ ],
+ "total_records": 12
+}

@@ -1,0 +1,30 @@
+{
+ "index": "Z",
+ "records": [
+  {
+   "first": "Zachery",
+   "last": "Dicki",
+   "email": "Zachery.Dicki@joshuah.biz",
+   "address": "74215 Wiza Ports",
+   "created": "October 20, 2012",
+   "balance": "$7,736.32"
+  },
+  {
+   "first": "Zora",
+   "last": "Padberg",
+   "email": "Zora.Padberg@amara.com",
+   "address": "04384 Henry Isle",
+   "created": "February 9, 2014",
+   "balance": "$6,214.90"
+  },
+  {
+   "first": "Zoey",
+   "last": "Lemke",
+   "email": "greenfrog61@gmail.com",
+   "address": "0705 Marcel Oval",
+   "created": "February 4, 2021",
+   "balance": "$4,709.67"
+  }
+ ],
+ "total_records": 3
+}

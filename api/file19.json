@@ -1,0 +1,70 @@
+{
+ "index": "F",
+ "records": [
+  {
+   "first": "Fatima",
+   "last": "Boehm",
+   "email": "Fatima.Boehm@eldridge.com",
+   "address": "60579 Carter Light",
+   "created": "December 2, 2013",
+   "balance": "$861.71"
+  },
+  {
+   "first": "Fidel",
+   "last": "Schiller",
+   "email": "Fidel.Schiller@andrew.info",
+   "address": "35679 Rodger Locks",
+   "created": "December 16, 2017",
+   "balance": "$6,812.22"
+  },
+  {
+   "first": "Flossie",
+   "last": "Grimes",
+   "email": "Flossie.Grimes@liam.biz",
+   "address": "1345 Hammes Lake",
+   "created": "November 16, 2019",
+   "balance": "$2,692.88"
+  },
+  {
+   "first": "Frida",
+   "last": "Rippin",
+   "email": "cyanrabbit05@gmail.com",
+   "address": "411 Ondricka Lodge",
+   "created": "November 22, 2017",
+   "balance": "$6,420.44"
+  },
+  {
+   "first": "Felton",
+   "last": "Lueilwitz",
+   "email": "tealfrog32@gmail.com",
+   "address": "972 Elyse Hill",
+   "created": "January 16, 2013",
+   "balance": "$2,319.74"
+  },
+  {
+   "first": "Fredy",
+   "last": "MacGyver",
+   "email": "tealfrog94@gmail.com",
+   "address": "43751 Carroll Corner",
+   "created": "March 21, 2016",
+   "balance": "$9,763.51"
+  },
+  {
+   "first": "Flo",
+   "last": "Collins",
+   "email": "blackfrog72@gmail.com",
+   "address": "41613 Jerry Mountain",
+   "created": "May 19, 2014",
+   "balance": "$2,841.82"
+  },
+  {
+   "first": "Ferne",
+   "last": "Wilkinson",
+   "email": "maroongiraffe99@gmail.com",
+   "address": "318 Kunde Loaf",
+   "created": "March 29, 2013",
+   "balance": "$6,006.52"
+  }
+ ],
+ "total_records": 8
+}

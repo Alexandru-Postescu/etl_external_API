@@ -1,0 +1,86 @@
+{
+ "index": "B",
+ "records": [
+  {
+   "first": "Bria",
+   "last": "Stanton",
+   "email": "Bria.Stanton@deja.biz",
+   "address": "108 Kovacek Alley",
+   "created": "July 29, 2021",
+   "balance": "$4,256.64"
+  },
+  {
+   "first": "Brando",
+   "last": "West",
+   "email": "purplewolf37@gmail.com",
+   "address": "54603 Merritt Trail",
+   "created": "January 19, 2017",
+   "balance": "$5,229.32"
+  },
+  {
+   "first": "Brennan",
+   "last": "Wunsch",
+   "email": "Brennan.Wunsch@irma.net",
+   "address": "237 Emmitt Fort",
+   "created": "May 9, 2014",
+   "balance": "$8,993.84"
+  },
+  {
+   "first": "Beverly",
+   "last": "Windler",
+   "email": "Beverly.Windler@dorris.name",
+   "address": "849 Legros Hills",
+   "created": "December 11, 2016",
+   "balance": "$7,946.26"
+  },
+  {
+   "first": "Brant",
+   "last": "Bergstrom",
+   "email": "Brant.Bergstrom@domenic.biz",
+   "address": "88345 Bergnaum Bridge",
+   "created": "November 26, 2016",
+   "balance": "$4,403.71"
+  },
+  {
+   "first": "Bo",
+   "last": "Toy",
+   "email": "Bo.Toy@mekhi.info",
+   "address": "439 Dach Vista",
+   "created": "August 29, 2021",
+   "balance": "$2,788.03"
+  },
+  {
+   "first": "Benton",
+   "last": "Hickle",
+   "email": "Benton.Hickle@herminia.com",
+   "address": "35458 Jasper Summit",
+   "created": "January 8, 2021",
+   "balance": "$8,378.28"
+  },
+  {
+   "first": "Bianka",
+   "last": "Ferry",
+   "email": "Bianka.Ferry@estella.net",
+   "address": "9660 Fisher Prairie",
+   "created": "June 13, 2014",
+   "balance": "$9,893.13"
+  },
+  {
+   "first": "Brielle",
+   "last": "Wyman",
+   "email": "orangegiraffe76@gmail.com",
+   "address": "45295 Mayert Row",
+   "created": "November 6, 2013",
+   "balance": "$9,625.39"
+  },
+  {
+   "first": "Brian",
+   "last": "Oberbrunner",
+   "email": "limegiraffe66@gmail.com",
+   "address": "9322 Kenneth Lake",
+   "created": "September 10, 2014",
+   "balance": "$1,261.29"
+  }
+ ],
+ "total_records": 10
+}

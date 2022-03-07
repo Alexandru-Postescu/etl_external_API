@@ -1,0 +1,22 @@
+{
+ "index": "a",
+ "records": [
+  {
+   "first": "alex",
+   "last": "poste",
+   "email": "idk",
+   "address": "idk",
+   "created": "idk",
+   "balance": "idk"
+  },
+  {
+   "first": "aalex",
+   "last": "poste",
+   "email": "idk",
+   "address": "idk",
+   "created": "idk",
+   "balance": "idk"
+  }
+ ],
+ "total_records": 2
+}
