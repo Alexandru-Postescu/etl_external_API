@@ -1,14 +1,15 @@
 package datautil
 
 import (
-	"reflect"
 	"testing"
 
 	"example.com/go-api/model"
+	"github.com/google/go-cmp/cmp"
 )
 
 // TODO: failing test, run it with -count=1 to clear cache
 func TestTransform(t *testing.T) {
+	dataPreparator := NewDataTransformer()
 	type args struct {
 		input []model.Person
 	}
@@ -81,12 +82,12 @@ func TestTransform(t *testing.T) {
 
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			got, err := Transform(tt.args.input)
+			got, err := dataPreparator.Transform(tt.args.input)
 			if (err != nil) != tt.wantErr {
 				t.Errorf("Transform() error = %v, wantErr %v", err, tt.wantErr)
 				return
 			}
-			if !reflect.DeepEqual(got, tt.want) {
+			if diff := cmp.Diff(tt.want, got); diff != "" {
 				t.Errorf("Transform() = %v, want %v", got, tt.want)
 			}
 		})

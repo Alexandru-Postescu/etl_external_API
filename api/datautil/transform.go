@@ -1,12 +1,17 @@
 package datautil
 
 import (
+	"example.com/go-api/etl"
 	"example.com/go-api/model"
 )
 
 // Transform loads the records of people into a set so we eliminate the duplicates and then we group the records based on the letter of the first name
+type dataTransformer struct{}
 
-func Transform(input []model.Person) (map[string][]model.Person, error) {
+func NewDataTransformer() etl.Transformer {
+	return dataTransformer{}
+}
+func (d dataTransformer) Transform(input []model.Person) (map[string][]model.Person, error) {
 	setPeople := createSetPeople(input)
 
 	result := make(map[string][]model.Person)

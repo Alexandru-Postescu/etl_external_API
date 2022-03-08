@@ -7,28 +7,26 @@ import (
 	"io/ioutil"
 	"net/http"
 
+	"example.com/go-api/etl"
 	"example.com/go-api/model"
 )
 
-type API struct {
+type api struct {
 	Client *http.Client
 	URL    string
 }
 
-func NewAPI(url string) API {
-	a := API{}
+func NewAPI(url string) etl.Extractor {
+	a := api{}
 	a.URL = url
 	a.Client = http.DefaultClient
 	return a
 }
 
 // Extract returns the records of people
-func (a API) Extract(ctx context.Context, num int) ([]model.Person, error) {
 
-	if num < 1 {
+func (a api) Extract(ctx context.Context, num int) ([]model.Person, error) {
 
-		return nil, errors.New("number is too low")
-	}
 	p := make([]model.Person, 0, num)
 
 	for num > 0 {
@@ -61,7 +59,7 @@ func (a API) Extract(ctx context.Context, num int) ([]model.Person, error) {
 }
 
 // Fetch data is making a get request to the API and returns its response (status code and body)
-func (a API) FetchData(ctx context.Context) (ResponseStruct, error) {
+func (a api) FetchData(ctx context.Context) (ResponseStruct, error) {
 	method := "GET"
 	request, err := http.NewRequestWithContext(ctx, method, a.URL, nil)
 	r := ResponseStruct{}

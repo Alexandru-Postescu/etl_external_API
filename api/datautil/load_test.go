@@ -7,7 +7,7 @@ import (
 )
 
 func TestLoad(t *testing.T) {
-
+	jsonLoader := NewJSONLoader()
 	person1 := model.Person{
 		"alex",
 		"poste",
@@ -28,7 +28,7 @@ func TestLoad(t *testing.T) {
 	input := map[string][]model.Person{
 		"a": input1,
 	}
-	err := Load(input)
+	err := jsonLoader.Load(input)
 	if err != nil {
 		t.Errorf("Load() error: %v", err)
 	}
