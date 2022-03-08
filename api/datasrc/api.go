@@ -26,7 +26,6 @@ func NewAPI(url string) etl.Extractor {
 // Extract returns the records of people
 
 func (a api) Extract(ctx context.Context, num int) ([]model.Person, error) {
-
 	p := make([]model.Person, 0, num)
 
 	for num > 0 {
